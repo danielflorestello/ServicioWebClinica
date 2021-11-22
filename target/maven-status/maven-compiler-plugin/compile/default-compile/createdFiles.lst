@@ -1,0 +1,12 @@
+Modelo\PacienteModelo.class
+Interfaces\CRUDUbigeo.class
+Bean\ChatBean.class
+Bean\UbigeoBean.class
+Util\ConexionBD.class
+Bean\PacienteBean.class
+Modelo\UbigeoModelo.class
+WS\Servicios.class
+Bean\DiagnosticoBean.class
+Bean\DoctorBean.class
+Interfaces\CRUDPaciente.class
+Modelo\SesionModelo.class
